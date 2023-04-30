@@ -6,9 +6,9 @@
   - Certified Microsoft Devops Expert
   - Azure solutions design and implementation
   - AWS solutions desing and implementation
-  - Infra as Code ( ARM Templates, Terraform, Bicep )
+  - Infra as Code ( Terraform, ARM Templates )
   - Azure & AWS Automations using Powershell 
-  - CI/CD Tools - Octopus Deploy, Bitbucket, Bamboo
+  - CI/CD Tools - Azure DevOps, Octopus Deploy, Bitbucket, Opsera
 
 <!---
 VishnuGillela/VishnuGillela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
